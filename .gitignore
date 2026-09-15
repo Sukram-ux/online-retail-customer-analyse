@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+# Rohdaten und generierte Dateien nicht ins Repo (Lizenz/Größe) – Download-Anleitung folgt im README
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
