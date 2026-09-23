@@ -62,7 +62,9 @@ Interaktives Power-BI-Dashboard mit zwei Seiten:
 
 Datei: [`reports/online_retail_dashboard.pbix`](reports/online_retail_dashboard.pbix) (Power BI Desktop erforderlich)
 
-*(Screenshots hier ergänzen, sobald das Dashboard final ist)*
+![Dashboard Seite 1: Übersicht mit KPIs, Filtern und Umsatzverlauf](docs/images/dashboard_uebersicht.png)
+
+![Dashboard Seite 2: Segmente und Retention-Heatmap](docs/images/dashboard_segmente_retention.png)
 
 ## Projektstruktur
 
