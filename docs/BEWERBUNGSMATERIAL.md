@@ -5,7 +5,7 @@ Persönliches Referenzdokument für Bewerbungen, LinkedIn und Vorstellungsgespr�
 ## Für den Lebenslauf (kurz, 3–4 Zeilen)
 
 > **Kundenanalyse Online-Retail (Privates Portfolio-Projekt)**
-> Python (pandas) & Power BI | github.com/[dein-username]/[repo-name]
+> Python (pandas) & Power BI | github.com/Sukram-ux/online-retail-customer-analyse
 > Kundensegmentierung (RFM) und Kohorten-/Retentionsanalyse für 800.000+ Transaktionsdatensätze eines Online-Händlers; identifizierte, dass 30 % der Kunden 82 % des Umsatzes erwirtschaften. Interaktives Power-BI-Dashboard mit 3 datenbasierten Handlungsempfehlungen für das Marketing-Team entwickelt.
 
 ## Für LinkedIn / Portfolio-Website (ausführlicher)
